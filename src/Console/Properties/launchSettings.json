@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Mmt.Shop.Console": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DatabaseName": "MMTShop",
+        "ApiUrl": "https://localhost:44327/",
+        "ConnectionString": "Trusted_Connection=True;Data Source=A01929"
+      }
+    }    
+  }
+}
